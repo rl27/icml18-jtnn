@@ -122,5 +122,4 @@ if __name__ == "__main__":
         for c in mol.nodes:
             cset.add(c.smiles)
     for x in cset:
-        print x
-
+        print(x)

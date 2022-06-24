@@ -1,0 +1,1 @@
+python sample.py --nsample 30 --vocab ../data/moses/vocab.txt --hidden 450 --model moses-h450z56/model.iter-400000 > mol_samples.txt
