@@ -1,7 +1,6 @@
 import torch
-import torch.nn as nn
 
-import math, random, sys
+import sys
 sys.path.insert(0,'..')
 sys.path.insert(0,'../fast_jtnn')
 import argparse
